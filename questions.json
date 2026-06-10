@@ -1,46 +1,46 @@
 [
-   {
-    "question": "In welcher Marktform wird der Preis weder von einem Einzelnen diktiert noch von einer kleinen Gruppe kontrolliert, sondern bildet sich frei durch Angebot und Nachfrage?",
-    "options": {
-      "A": "Monopol",
-      "B": "Angebotsoligopol",
-      "C": "Nachfrageoligopol",
-      "D": "Polypol"
-    },
-    "correct": "D"
+  {
+  "question": "In welcher Marktform wird der Preis weder von einem einzelnen Anbieter noch von einer kleinen Gruppe von Anbietern bestimmt, sondern bildet sich frei durch Angebot und Nachfrage?",
+  "options": {
+    "A": "Es ist ein Monopol, bei dem ein einzelner Anbieter den Markt beherrscht.",
+    "B": "Dies ist ein Angebotsoligopol, bei dem wenige Anbieter den Markt dominieren.",
+    "C": "Gesucht wird ein Nachfrageoligopol, bei dem wenige Nachfrager den Markt bestimmen.",
+    "D": "Es handelt sich um ein Polypol, bei dem viele Anbieter und Nachfrager aufeinandertreffen."
   },
+  "correct": "D"
+},
   {
     "question": "Auf welchem Markt bestehen keine räumlichen und zeitlichen Präferenzen?",
     "options": {
-      "A": "Kapitalmarkt",
-      "B": "Agrarmarkt",
-      "C": "Gebietsmarkt",
-      "D": "Punktmarkt"
+      "A": "Der Kapitalmarkt hat keinerlei Präferenzen",
+      "B": "Gesucht wird hier der Agrarmarkt",
+      "C": "Weder räumlich noch zeitliche Präferenzen bestehen auf dem Gebietsmarkt",
+      "D": "Es kann sich nur um den Punktmarkt handeln"
     },
     "correct": "D"
   },
   {
-    "question": "Was wird auf dem Investitionsgütermarkt nachgefragt?",
+    "question": "Was wird auf dem Investitionsgütermarkt typischerweise nachgefragt?",
     "options": {
-      "A": "Private Geldanlagen in Form von Aktien",
-      "B": "Rohstoffe der Unternehmer",
-      "C": "Waschmaschinen der privaten Haushalte",
-      "D": "Grundstücke der Unternehmer"
+      "A": "Nachgefragt werden Aktien, die private Anleger als Geldanlage erwerben.",
+      "B": "Nachgefragt werden Maschinen und Produktionsanlagen, die Unternehmen für die Herstellung von Gütern einsetzen.",
+      "C": "Nachgefragt werden Waschmaschinen, die private Haushalte für den eigenen Gebrauch kaufen.",
+      "D": "Nachgefragt werden Lebensmittel, die private Haushalte zum Konsum erwerben."
     },
     "correct": "B"
   },
   {
-    "question": "Die Börse ist ein...",
+    "question": "Die Börse ist ein ...",
     "options": {
       "A": "Punktmarkt",
-      "B": "Gebietsmarkt",
+      "B": "lila Büffel",
       "C": "regulierter Markt",
       "D": "heterogener Markt"
     },
     "correct": "A"
   },
   {
-    "question": "Bei einem homogenen Markt sind die Marktgüter...",
+    "question": "Bei einem homogenen Markt sind die Marktgüter ...",
     "options": {
       "A": "qualitätsbeständig",
       "B": "preiswert",
@@ -50,7 +50,7 @@
     "correct": "C"
   },
   {
-    "question": "Auf dem unvollkommenen Markt besteht in der Regel...",
+    "question": "Auf dem unvollkommenen Markt besteht in der Regel ...",
     "options": {
       "A": "personelle Gleichartigkeit",
       "B": "Markttransparenz",
@@ -60,142 +60,142 @@
     "correct": "D"
   },
   {
-    "question": "Wann liegt ein regulierter Markt vor?",
+    "question": "Wann spricht man von einem regulierten Markt?",
     "options": {
-      "A": "Wenn das Marktgeschehen sich an der Börse abspielt",
-      "B": "Wenn das Marktgeschehen institutionalisiert ist",
-      "C": "Wenn sich das Marktgeschehen bei Banken vollzieht",
-      "D": "Wenn das Marktgeschehen vom Staat gelenkt wird"
+      "A": "Ein regulierter Markt liegt vor, wenn Angebot und Nachfrage den Gleichgewichtspreis natürlich regulieren.",
+      "B": "Ein regulierter Markt liegt vor, wenn das Marktgeschehen durch feste Regeln und Institutionen organisiert wird.",
+      "C": "Ein regulierter Markt liegt vor, wenn Aufseher von Stand zu Stand gehen um Regeln durchzusetzen.",
+      "D": "Ein regulierter Markt liegt vor, wenn keine Markttransparenz besteht."
     },
-    "correct": "D"
+    "correct": "B"
   },
   {
     "question": "Wann liegt stets ein unvollkommener Markt vor?",
     "options": {
-      "A": "Wenn die Güter gleichartig sind",
-      "B": "Wenn keine Präferenzen vorhanden sind",
-      "C": "Wenn Präferenzen vorhanden sind",
-      "D": "Wenn Markttransparenz vorliegt"
+      "A": "Ein unvollkommener Markt liegt stets vor, wenn die Krümmung von Gemüse nicht der Din-Norm entspricht.",
+      "B": "Ein unvollkommener Markt liegt stets vor, wenn keine Präferenzen vorhanden sind.",
+      "C": "Ein unvollkommener Markt liegt stets vor, wenn Präferenzen vorhanden sind.",
+      "D": "Ein unförmiger Markt liegt stets vor, wenn vollständige Markttransparenz besteht."
     },
     "correct": "C"
   },
   {
-    "question": "Um welchen Marktvorgang handelt es sich: Eine Hausfrau kauft am Markt meistens kurz vor Schluss ein, weil sie dann ihre Früchte billiger erhält?",
+    "question": "Um welchen Marktvorgang handelt es sich? Eine Kundin kauft auf dem Wochenmarkt meistens kurz vor Marktschluss ein, weil die Waren dann günstiger angeboten werden.",
     "options": {
-      "A": "Homogenität der Güter",
-      "B": "Persönliche Präferenzen",
-      "C": "Räumliche Präferenzen",
-      "D": "Zeitliche Präferenzen"
+      "A": "Es handelt sich um die Marktform der Homoidentität der Güter",
+      "B": "Der gesuchte Marktvorgang wird Persönliche Präferenzen genannt",
+      "C": "Hier geht es um die Räumliche Präferenzen",
+      "D": "Zeitliche Präferenzen wird dieser Marktvorgang genannt"
     },
     "correct": "D"
   },
   {
-    "question": "Um welchen Marktvorgang handelt es sich: Eine Hausfrau kauft vorwiegend bei einem Einzelhändler ein, mit dem sie befreundet ist?",
+    "question": "Um welchen Marktvorgang handelt es sich? Eine Kundin kauft bevorzugt bei einem Händler ein, mit dem sie persönlich befreundet ist.",
     "options": {
-      "A": "Homogenität der Güter",
-      "B": "Persönliche Präferenzen",
-      "C": "Räumliche Präferenzen",
-      "D": "Markttransparenz"
+      "A": "Gesucht wird die Homogenität der Güter",
+      "B": "Es handelt sich um die Persönliche Präferenzen",
+      "C": "Räumliche Präferenzen binden die Kundin an diesen Marktvorgang",
+      "D": "Markttransparenz erzeugt die spezielle Bevorzugung"
     },
     "correct": "B"
   },
   {
-    "question": "Um welchen Marktvorgang handelt es sich: Anbieter und Nachfrager sind über die Verkaufs- und Kaufbedingungen vollständig informiert?",
+    "question": "Um welchen Marktvorgang handelt es sich? Anbieter und Nachfrager sind über die Verkaufs- und Kaufbedingungen vollständig informiert.",
     "options": {
-      "A": "Homogenität der Güter",
-      "B": "Zeitliche Präferenzen",
-      "C": "Räumliche Präferenzen",
-      "D": "Markttransparenz"
+      "A": "Hier liegt Homogenität der Güter vor.",
+      "B": "Hier liegen zeitliche Präferenzen von lila Büffeln vor.",
+      "C": "Hier liegen räumliche Präferenzen vor.",
+      "D": "Hier liegt Markttransparenz vor."
     },
     "correct": "D"
   },
   {
-    "question": "Um welchen Marktvorgang handelt es sich: Der einzige Bäcker am Ort verkauft ein Brötchen um drei Cent teurer als der zwölf Kilometer weiter entfernte Bäcker?",
+    "question": "Um welchen Marktvorgang handelt es sich? Der einzige Bäcker im Ort verkauft ein Brötchen teurer als ein Bäcker in zwölf Kilometern Entfernung.",
     "options": {
-      "A": "Persönliche Präferenzen",
-      "B": "Räumliche Präferenzen",
-      "C": "Zeitliche Präferenzen",
-      "D": "Markttransparenz"
+      "A": "Hier liegen persönliche Präferenzen vor.",
+      "B": "Hier liegen räumliche Präferenzen vor.",
+      "C": "Hier liegen zeitliche Präferenzen vor.",
+      "D": "Hier liegt Markttransparenz vor."
     },
     "correct": "B"
   },
   {
-    "question": "Um welchen Marktvorgang handelt es sich: Eine bestimmte Pralinensorte wird wegen der ansprechenden Verpackung bevorzugt gekauft?",
+    "question": "Um welchen Marktvorgang handelt es sich? Eine bestimmte Pralinensorte wird aufgrund ihrer besonders ansprechenden Verpackung bevorzugt gekauft.",
     "options": {
-      "A": "Homogenität der Güter",
-      "B": "Persönliche Präferenzen",
-      "C": "Räumliche Präferenzen",
-      "D": "Zeitliche Präferenzen"
+      "A": "Hier liegt Homogenität der Güter vor.",
+      "B": "Hier liegen persönliche Präferenzen vor.",
+      "C": "Hier liegen räumliche Präferenzen vor.",
+      "D": "Hier liegen zeitliche Präferenzen vor."
     },
     "correct": "B"
   },
   {
-    "question": "Um welchen Marktvorgang handelt es sich: Ein Bahnhofskiosk in einem Hauptbahnhof einer Großstadt hat Tag und Nacht geöffnet?",
+    "question": "Um welchen Marktvorgang handelt es sich? Ein Bahnhofskiosk in einem Hauptbahnhof hat rund um die Uhr geöffnet.",
     "options": {
-      "A": "Homogenität der Güter",
-      "B": "Räumliche Präferenzen",
-      "C": "Zeitliche Präferenzen",
-      "D": "Markttransparenz"
+      "A": "Hier liegt Homogenität der Güter vor.",
+      "B": "Hier liegen räumliche Präferenzen vor.",
+      "C": "Hier liegen zeitliche Präferenzen vor.",
+      "D": "Hier liegt Markttransparenz vor."
     },
     "correct": "C"
   },
   {
-    "question": "Um welchen Marktvorgang handelt es sich: Ein Unternehmer verkauft seine Erzeugnisse im Ausland billiger als im Inland?",
+    "question": "Um welchen Marktvorgang handelt es sich? Ein Unternehmen verkauft seine Erzeugnisse im Ausland günstiger als im Inland.",
     "options": {
-      "A": "Persönliche Präferenzen",
-      "B": "Räumliche Präferenzen",
-      "C": "Zeitliche Präferenzen",
-      "D": "Markttransparenz"
+      "A": "Hier liegen persönliche Präferenzen vor.",
+      "B": "Hier liegen räumliche Präferenzen vor.",
+      "C": "Hier liegen zeitliche Präferenzen vor.",
+      "D": "Hier liegt Markttransparenz vor."
     },
     "correct": "B"
   },
   {
-    "question": "Um welchen Marktvorgang handelt es sich: Ein Unternehmer bezieht aus traditionell freundschaftlichen Gründen seine Rohstoffe jahrzehntelang vom gleichen Lieferer?",
+    "question": "Um welchen Marktvorgang handelt es sich? Ein Unternehmer bezieht seine Rohstoffe seit vielen Jahren vom gleichen Lieferanten, weil zwischen beiden eine persönliche Vertrauensbeziehung besteht.",
     "options": {
-      "A": "Homogenität der Güter",
-      "B": "Persönliche Präferenzen",
-      "C": "Räumliche Präferenzen",
-      "D": "Zeitliche Präferenzen"
+      "A": "Hier liegt Homogenität der Güter vor.",
+      "B": "Hier liegen persönliche Präferenzen vor.",
+      "C": "Hier liegen räumliche Präferenzen vor.",
+      "D": "Hier liegen zeitliche Präferenzen vor."
     },
     "correct": "B"
   },
   {
-    "question": "Um welchen Marktvorgang handelt es sich: Ein Kunde kauft Zucker, wobei es ihm egal ist, von welchem Anbieter dieser stammt, da die Produkte für ihn gleich sind?",
+    "question": "Um welchen Marktvorgang handelt es sich? Ein Kunde kauft Zucker, wobei es ihm egal ist, von welchem Anbieter dieser stammt, da die Produkte für ihn gleich sind.",
     "options": {
-      "A": "Homogenität der Güter",
-      "B": "Persönliche Präferenzen",
-      "C": "Zeitliche Präferenzen",
-      "D": "Markttransparenz"
+      "A": "Hier liegt Homogenität der Güter vor.",
+      "B": "Hier liegen persönliche Präferenzen vor.",
+      "C": "Hier liegen zeitliche Präferenzen vor.",
+      "D": "Hier liegt Markttransparenz vor."
     },
     "correct": "A"
   },
   {
-    "question": "Um welchen Marktvorgang handelt es sich: Ein junger Mann nutzt die Gelegenheit, in einem bestimmten Laden zu kaufen, weil er dort von einer Verkäuferin bedient wird, die ihm gefällt?",
+    "question": "Um welchen Marktvorgang handelt es sich? Ein junger Mann nutzt die Gelegenheit, in einem bestimmten Geschäft einzukaufen, weil ihm die Verkäuferin gefällt.",
     "options": {
-      "A": "Homogenität der Güter",
-      "B": "Persönliche Präferenzen",
-      "C": "Räumliche Präferenzen",
-      "D": "Markttransparenz"
+      "A": "Hier liegt Homogenität der Güter vor.",
+      "B": "Hier liegen persönliche Präferenzen vor.",
+      "C": "Hier liegen räumliche Präferenzen vor.",
+      "D": "Hier liegt Markttransparenz vor."
     },
     "correct": "B"
   },
   {
     "question": "Was kennzeichnet den Gleichgewichtspreis auf einem vollkommenen Markt?",
     "options": {
-      "A": "Er wird allein von den stärksten Anbietern diktiert",
-      "B": "Bei diesem Preis ist das Angebot deutlich größer als die Nachfrage",
-      "C": "Er sorgt für den maximal möglichen Absatz, da Angebot und Nachfrage gleich groß sind",
-      "D": "Er pendelt sich ein, wenn der Staat direkt in den Marktpreis eingreift"
+      "A": "Der Gleichgewichtspreis wird ausschließlich von den Anbietern festgelegt.",
+      "B": "Beim Gleichgewichtspreis ist das Angebot größer als die Nachfrage.",
+      "C": "Beim Gleichgewichtspreis stimmen angebotene und nachgefragte Menge überein.",
+      "D": "Der Gleichgewichtspreis entsteht durch staatliche Preisvorgaben."
     },
     "correct": "C"
   },
   {
     "question": "Welche Aussage trifft auf einen unvollkommenen Markt zu?",
     "options": {
-      "A": "Alle Kunden zahlen automatisch immer den gleichen Preis für ein Produkt",
-      "B": "Käufer und Verkäufer verfügen nicht immer über alle Informationen, wodurch Preisunterschiede entstehen",
-      "C": "Das gleiche Produkt muss an jedem Ort zwingend denselben Preis haben",
-      "D": "Alle Käufer kennen zu jeder Zeit sämtliche Preise und Angebote auf dem Markt"
+      "A": "Auf einem unvollkommenen Markt zahlen alle Kunden automatisch immer den gleichen Preis für ein Produkt.",
+      "B": "Auf einem unvollkommenen Markt verfügen Käufer und Verkäufer nicht immer über alle Informationen, wodurch Preisunterschiede entstehen können.",
+      "C": "Auf einem unvollkommenen Markt muss das gleiche Produkt an jedem Ort zwingend denselben Preis haben.",
+      "D": "Auf einem unvollkommenen Markt kennen alle Käufer jederzeit sämtliche Preise und Angebote."
     },
     "correct": "B"
   }
